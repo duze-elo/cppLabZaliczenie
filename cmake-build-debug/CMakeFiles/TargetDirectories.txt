@@ -1,0 +1,3 @@
+C:/Users/meowm/Desktop/cppLabZaliczenie/cmake-build-debug/CMakeFiles/cppLabZaliczenie.dir
+C:/Users/meowm/Desktop/cppLabZaliczenie/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/meowm/Desktop/cppLabZaliczenie/cmake-build-debug/CMakeFiles/rebuild_cache.dir

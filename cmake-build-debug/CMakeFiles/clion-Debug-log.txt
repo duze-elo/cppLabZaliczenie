@@ -1,0 +1,4 @@
+D:\Programy\CLion\bin\cmake\win\x64\bin\cmake.exe -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=D:/Programy/CLion/bin/ninja/win/x64/ninja.exe -G Ninja -S C:\Users\meowm\Desktop\cppLabZaliczenie -B C:\Users\meowm\Desktop\cppLabZaliczenie\cmake-build-debug
+-- Configuring done
+-- Generating done
+-- Build files have been written to: C:/Users/meowm/Desktop/cppLabZaliczenie/cmake-build-debug
